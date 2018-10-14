@@ -1,0 +1,27 @@
+# osx
+.DS_Store
+*.log
+.idea
+.vs
+.git
+.idea
+
+# node
+node_modules
+npm-debug.log
+npm-debug.log.*
+package-lock.json
+package.json
+
+
+# Logs
+logs
+*.log
+
+
+# vscode
+#.vscode/*
+
+# server specific
+original/**/*
+source/**/*.*
